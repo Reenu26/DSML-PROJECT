@@ -1,1 +1,2 @@
 # DSML-PROJECT
+This project aims to build a regression model to predict the passenger count based on various features such as airline details, geographical region, activity type, and other operational information. The dataset used for this project is airline traffic data, which contains information on flight activities, terminals, boarding areas, and passenger counts across different airlines and regions.
